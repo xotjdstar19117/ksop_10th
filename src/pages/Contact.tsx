@@ -40,7 +40,7 @@ function Contact() {
         {/* ✏️ 수정 4: 하고 싶은 말을 바꿔보세요! */}
         <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-6 text-center">
           <p className="text-gray-700 text-xl">
-            "10차시 동안 즐거웠습니다! 배운 것들 잊지마세요~~"
+            "10차시 동안 즐거웠습니다! 가르쳐주셔서 감사합니다.""
           </p>
         </div>
       </div>

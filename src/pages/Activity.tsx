@@ -137,24 +137,24 @@ function Activity() {
           <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-4 flex items-center gap-4">
             <span className="text-4xl">🥇</span>
             <div>
-              <p className="font-bold text-lg text-gray-800">fly me to the moon</p>
-              <p className="text-gray-500">Chaka Khan</p>
+              <p className="font-bold text-lg text-gray-800">아로하</p>
+              <p className="text-gray-500">	조정석</p>
             </div>
           </div>
           
           <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-4 flex items-center gap-4">
             <span className="text-4xl">🥈</span>
             <div>
-              <p className="font-bold text-lg text-gray-800">Do It!</p>
-              <p className="text-gray-500">하우스룰즈</p>
+              <p className="font-bold text-lg text-gray-800">fly me to the moon</p>
+              <p className="text-gray-500">Frank Sinatra</p>
             </div>
           </div>
           
           <div className="bg-gradient-to-r from-green-50 to-teal-50 rounded-xl p-4 flex items-center gap-4">
             <span className="text-4xl">🥉</span>
             <div>
-              <p className="font-bold text-lg text-gray-800">멸종위기사랑</p>
-              <p className="text-gray-500">이찬혁</p>
+              <p className="font-bold text-lg text-gray-800">lemon</p>
+              <p className="text-gray-500">요네즈 켄시</p>
             </div>
           </div>
           
