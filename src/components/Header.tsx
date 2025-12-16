@@ -30,15 +30,15 @@ function Header() {
           
           <div className="flex-1">
             {/* ✏️ 수정 2: 이름을 바꿔보세요! */}
-            <h1 className="text-3xl font-bold mb-2">이수민</h1>
+            <h1 className="text-3xl font-bold mb-2">김태성</h1>
             
             {/* ✏️ 수정 3, 4: 나이, 성별을 바꿔보세요! */}
             <div className="flex items-center gap-2">
               <span className="bg-white/20 px-3 py-1 rounded-full text-sm font-medium">
-                🎂 25살
+                🎂 16살
               </span>
               <span className="bg-white/20 px-3 py-1 rounded-full text-sm font-medium">
-                👩 여자
+                👩 남자
               </span>
             </div>
           </div>

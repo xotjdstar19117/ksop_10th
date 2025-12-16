@@ -25,16 +25,7 @@ function Contact() {
             <span className="text-4xl">📧</span>
             <div>
               <p className="text-gray-500">이메일</p>
-              <p className="font-bold text-lg text-gray-800">hello@example.com</p>
-            </div>
-          </div>
-          
-          {/* ✏️ 수정 2: 인스타 아이디를 바꿔보세요! */}
-          <div className="bg-gray-50 rounded-xl p-4 flex items-center gap-4">
-            <span className="text-4xl">📷</span>
-            <div>
-              <p className="text-gray-500">인스타그램</p>
-              <p className="font-bold text-lg text-gray-800">@my_instagram</p>
+              <p className="font-bold text-lg text-gray-800">anghk@gamil.com</p>
             </div>
           </div>
           

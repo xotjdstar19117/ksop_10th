@@ -17,8 +17,8 @@ function Activity() {
   
   const isE = true;   // true = E(외향), false = I(내향)
   const isN = false;  // true = N(직관), false = S(감각)
-  const isF = true;   // true = F(감정), false = T(사고)
-  const isP = false;  // true = P(인식), false = J(판단)
+  const isF = false;   // true = F(감정), false = T(사고)
+  const isP = true;  // true = P(인식), false = J(판단)
 
   return (
     <div className="max-w-4xl mx-auto space-y-6">
@@ -113,19 +113,16 @@ function Activity() {
         {/* ✏️ 수정: 좋아하는 것들을 바꿔보세요! 추가하거나 삭제해도 돼요! */}
         <div className="flex flex-wrap gap-3">
           <span className="bg-pink-100 text-pink-600 px-4 py-2 rounded-full text-lg font-medium">
-            🧶 뜨개질
+            🎲 큐브
           </span>
           <span className="bg-blue-100 text-blue-600 px-4 py-2 rounded-full text-lg font-medium">
-            💃 춤
+            🎵 노래
           </span>
           <span className="bg-green-100 text-green-600 px-4 py-2 rounded-full text-lg font-medium">
-            💖 연애 예능
+            ⚽ 축구
           </span>
           <span className="bg-purple-100 text-purple-600 px-4 py-2 rounded-full text-lg font-medium">
-            🎥 영화보기
-          </span>
-          <span className="bg-yellow-100 text-yellow-600 px-4 py-2 rounded-full text-lg font-medium">
-            🏊‍♀️ 수영
+            🧪 과학
           </span>
         </div>
       </div>
@@ -140,7 +137,7 @@ function Activity() {
           <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-4 flex items-center gap-4">
             <span className="text-4xl">🥇</span>
             <div>
-              <p className="font-bold text-lg text-gray-800">I Feel For You</p>
+              <p className="font-bold text-lg text-gray-800">fly me to the moon</p>
               <p className="text-gray-500">Chaka Khan</p>
             </div>
           </div>
