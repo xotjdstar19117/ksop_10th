@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 인스타그램 스타일 프로필 페이지 */
+body {
+  background-color: #fafafa;
+}
+
